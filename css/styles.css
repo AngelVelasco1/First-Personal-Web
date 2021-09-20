@@ -350,8 +350,8 @@ section {
   .lista-menu li a {
     display: flex;
     color: #fff;
-    height: 50px;
-    width: 90%;
+    height: 40px;
+    width: 95%;
     margin-right: 15px;
     text-decoration: none;
     padding-top: 0px;
